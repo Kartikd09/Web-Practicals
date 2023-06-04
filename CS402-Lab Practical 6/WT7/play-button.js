@@ -1,7 +1,4 @@
-// This class will represent the play button in the MusicScreen. Clicking on
-// it toggles audio playback.
-//
-// See labwork 7 writeup for more hints and details.
+
 class PlayButton {
   constructor() {
     this.button = document.querySelector('.button');

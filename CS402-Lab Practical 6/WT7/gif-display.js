@@ -1,7 +1,4 @@
-// This class will represent the gif display area. It keeps track of which gif
-// is being shown and can select a new random gif to be shown.
-// 
-// See labwork 7 writeup for more hints and details.
+
 class GifDisplay {
   constructor() {
     this.onJsonReady = this.onJsonReady.bind(this);
